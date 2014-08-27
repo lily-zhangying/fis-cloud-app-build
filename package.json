@@ -1,0 +1,22 @@
+{
+  "name": "fis-cloud-app-build",
+  "version": "0.0.0",
+  "description": "fis-cloud-app-build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lily-zhangying/fis-cloud-app-build.git"
+  },
+  "keywords": [
+    "fis-cloud-app-build"
+  ],
+  "author": "FISTEAM",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/lily-zhangying/fis-cloud-app-build/issues"
+  },
+  "homepage": "https://github.com/lily-zhangying/fis-cloud-app-build"
+}
